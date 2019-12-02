@@ -1,22 +1,21 @@
-.canvas{
-    border:1px black dotted;
-    position:absolute;
-    top:0px;
-    bottom:0px;
-    left:0px;
-    right:0px
+.canvas {
+    border: 1px black dotted;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px
 }
 
-#canvas-draft{
+#canvas-draft {
     background-color: transparent;
 }
 
 .button {
     margin-top: 800px;
-z-index:3
-
+    z-index: 3
 }
 
 body {
-    background-color: blueviolet;
+    background-color: black;
 }
